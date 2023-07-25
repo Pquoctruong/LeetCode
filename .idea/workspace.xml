@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5cf04b0-1fa2-4ae4-8a7c-5396d0f20dd6" name="Changes" comment="First Program" />
+    <list default="true" id="e5cf04b0-1fa2-4ae4-8a7c-5396d0f20dd6" name="Changes" comment="First Program">
+      <change afterPath="$PROJECT_DIR$/src/Tree/MyBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/MyBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +42,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -45,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687100569610</updated>
       <workItem from="1687100570764" duration="3447000" />
+      <workItem from="1690256237294" duration="3144000" />
     </task>
     <task id="LOCAL-00001" summary="First Program">
       <created>1687103961795</created>
@@ -53,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687103961795</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Program">
+      <created>1690256254620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690256254620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
